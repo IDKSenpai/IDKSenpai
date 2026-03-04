@@ -3,8 +3,8 @@
 🔭 I’m currently working on Freelance Project  
 🤔 I’m looking for help with Full Stack  
 📫 How to reach me:  
-&nbsp;&nbsp;. FB: https://www.facebook.com/kech.kheang.9  
-&nbsp;&nbsp;. TG: https://t.me/KechKheang  
+&nbsp;&nbsp;&nbsp;&nbsp;. FB: https://www.facebook.com/kech.kheang.9  
+&nbsp;&nbsp;&nbsp;&nbsp;. TG: https://t.me/KechKheang  
 
 <!--
 **IDKSenpai/IDKSenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
