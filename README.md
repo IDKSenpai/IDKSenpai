@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🔭 I’m currently working on Freelance Project
+🤔 I’m looking for help with Full Stack
+📫 How to reach me:
+    . FB: https://www.facebook.com/kech.kheang.9
+    . TG: https://t.me/KechKheang
+
 <!--
 **IDKSenpai/IDKSenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
