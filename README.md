@@ -70,10 +70,6 @@
 
 ###
 
-<img align="right" height="162" src="https://64.media.tumblr.com/1de975b3f3770a4980ff96eec7fc219c/9b8b09f6203f6de1-e1/s400x600/11d9709b769e618ad8708222e771f684868c9b0a.gifv"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/IDKSenpai/IDKSenpai/output/snake.svg" alt="Snake animation" />
+<img align="left" height="162" src="https://64.media.tumblr.com/1de975b3f3770a4980ff96eec7fc219c/9b8b09f6203f6de1-e1/s400x600/11d9709b769e618ad8708222e771f684868c9b0a.gifv"  />
 
 ###
